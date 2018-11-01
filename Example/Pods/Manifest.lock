@@ -1,0 +1,16 @@
+PODS:
+  - Velocity (0.1.0)
+
+DEPENDENCIES:
+  - Velocity (from `../`)
+
+EXTERNAL SOURCES:
+  Velocity:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Velocity: 931eff87e173465059eb3e7dc369ff32db951611
+
+PODFILE CHECKSUM: 8de697b602d1ca6d71436baf9a304cffdb13be81
+
+COCOAPODS: 1.5.3

@@ -42,9 +42,9 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		609B669D9553EF0B97CC0A28 /* Pods-Velocity_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Velocity_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Velocity_Tests/Pods-Velocity_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6BD97A899707B3C599806B51 /* Pods_Velocity_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Velocity_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6D488329985F464DB1E31F72 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		83AFE07C6B82CAD586DEEFB4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		98A713D35D96CCD47F08B4F0 /* Velocity.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = Velocity.podspec; path = ../Velocity.podspec; sourceTree = "<group>"; };
+		6D488329985F464DB1E31F72 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		83AFE07C6B82CAD586DEEFB4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		98A713D35D96CCD47F08B4F0 /* Velocity.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Velocity.podspec; path = ../Velocity.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CFC66AF73120D4A999372B44 /* Pods-Velocity_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Velocity_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Velocity_Example/Pods-Velocity_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		FED26892CFB39E57C1ECBFB8 /* Pods-Velocity_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Velocity_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Velocity_Tests/Pods-Velocity_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

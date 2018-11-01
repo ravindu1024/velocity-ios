@@ -1,0 +1,6 @@
+framework module Velocity {
+  umbrella header "Velocity-umbrella.h"
+
+  export *
+  module * { export * }
+}
